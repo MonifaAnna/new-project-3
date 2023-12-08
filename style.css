@@ -46,14 +46,18 @@ button{
 .second-sec{
     width:1200px;
     background-color: bisque;
-    height: 1000px;
+
     margin: auto;
+    margin-top: 85px;
 }
 .picture{
-    width:330px;
-    height: 474px;
+    width:300px;
+    height: 256px;
 }
 .second-main{
     display: grid;
     grid-template-columns: repeat(3, 1fr);
+}
+.sub-main{
+    padding: 40px;
 }
