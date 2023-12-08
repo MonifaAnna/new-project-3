@@ -26,3 +26,19 @@ button{
     background-color: rgb(214, 52, 52);
     color:white;
 }
+.first-div{
+    display: flex;
+}
+h1{
+    color:white;
+    font-weight: 700;
+    font-size: 50px;
+}
+.sub{
+    margin-left: 220px;
+}
+img{
+    width: 556px;
+    height: 438px;
+    margin-left: 200px;
+}
