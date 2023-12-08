@@ -1,0 +1,28 @@
+.first-sec{
+    background-color: blue;
+    height: 500px;
+}
+nav{
+
+    width: 1160px;
+    height: 44px;
+    margin:auto;
+    padding: 20px;
+    color:white;
+    font-weight: 700;
+}
+.first-blog{
+    display: flex;
+    justify-content:space-around;
+    align-items: center;
+}
+.blog{
+    margin-right: 250px;
+}
+button{
+    height: 44px;
+    width: 123px;
+    font-weight: 700;
+    background-color: rgb(214, 52, 52);
+    color:white;
+}
