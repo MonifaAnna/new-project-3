@@ -100,18 +100,19 @@ button{
 }
 .end-sec{
     margin: auto;
-    height: 500px;
-    background-color: blueviolet;
-    width: 1000px;
+   
     margin-top: 112px;
 }
 .skill{
     width: 484px;
     height: 110px;
-    margin-left: 250px;
+    margin-left: 475px;
 }
 .stop{
     text-align: center;
+}
+.main-study{
+    margin-right: 196px;
 }
 .study{
     width: 32px;
