@@ -71,7 +71,7 @@ button{
 .last-sec{
     display: flex;
     width:1200px;
-    background-color:blue;
+
     margin: auto;
     height:500gpx;
     margin-top: 180px;
@@ -87,4 +87,14 @@ button{
     font-size: 60px;
     font-family:bold;
     padding: 10px;
+}
+.last-para{
+    color:gray;
+    font-weight: 700;
+    font-size: 20px;
+    font-family:bold;
+    padding: 10px;
+}
+.last-btn{
+    width: 173px;
 }
