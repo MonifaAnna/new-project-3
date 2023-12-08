@@ -1,6 +1,6 @@
 .first-sec{
-    background-color: blue;
-    height: 500px;
+    background-color: rgb(48, 48, 181);
+    height: 560px;
 }
 nav{
 
@@ -29,16 +29,31 @@ button{
 .first-div{
     display: flex;
 }
-h1{
+.head{
     color:white;
     font-weight: 700;
     font-size: 50px;
+    font-family:bold;
 }
 .sub{
     margin-left: 220px;
 }
-img{
+.capture{
     width: 556px;
     height: 438px;
     margin-left: 200px;
+}
+.second-sec{
+    width:1200px;
+    background-color: bisque;
+    height: 1000px;
+    margin: auto;
+}
+.picture{
+    width:330px;
+    height: 474px;
+}
+.second-main{
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
 }
