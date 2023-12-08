@@ -45,7 +45,7 @@ button{
 }
 .second-sec{
     width:1200px;
-    background-color: bisque;
+    
 
     margin: auto;
     margin-top: 85px;
@@ -60,4 +60,11 @@ button{
 }
 .sub-main{
     padding: 40px;
+    color:gray;
+    box-shadow: 10px 10px 10px 10px rgb(227, 196, 196);
+}
+.mid-head{
+    font-size: 700;
+    color:rgb(23, 23, 108);
+    font-size: 30px;
 }
