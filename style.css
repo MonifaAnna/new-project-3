@@ -73,11 +73,18 @@ button{
     width:1200px;
     background-color:blue;
     margin: auto;
-    height:500px;
+    height:500gpx;
     margin-top: 180px;
 }
 .last-pic{
     width: 567px;
     height: 427px;
     margin-left: 46px;
+}
+.head-last{
+    color:black;
+    font-weight: 700;
+    font-size: 60px;
+    font-family:bold;
+    padding: 10px;
 }
