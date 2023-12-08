@@ -73,6 +73,11 @@ button{
     width:1200px;
     background-color:blue;
     margin: auto;
-    height:400px;
+    height:500px;
     margin-top: 180px;
+}
+.last-pic{
+    width: 567px;
+    height: 427px;
+    margin-left: 46px;
 }
