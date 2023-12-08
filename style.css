@@ -100,13 +100,22 @@ button{
 }
 .end-sec{
     margin: auto;
-    height: 213px;
+    height: 500px;
     background-color: blueviolet;
-    width: 483px;
+    width: 1000px;
     margin-top: 112px;
+}
+.skill{
+    width: 484px;
+    height: 110px;
+    margin-left: 250px;
 }
 .stop{
     text-align: center;
+}
+.study{
+    width: 32px;
+    height: 32px;
 }
     
     
