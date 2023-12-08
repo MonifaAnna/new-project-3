@@ -68,3 +68,11 @@ button{
     color:rgb(23, 23, 108);
     font-size: 30px;
 }
+.last-sec{
+    display: flex;
+    width:1200px;
+    background-color:blue;
+    margin: auto;
+    height:400px;
+    margin-top: 180px;
+}
